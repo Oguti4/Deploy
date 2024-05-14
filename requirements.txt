@@ -1,0 +1,8 @@
+pandas 
+dash
+plotly.express
+matplotlib
+plotly
+datetime
+gunicorn
+dash_auth
